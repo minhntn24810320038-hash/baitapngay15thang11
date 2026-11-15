@@ -50,4 +50,4 @@ baitap66_68/
 
 ### 5. Minh họa An toàn Dữ liệu & Xử lý Lỗi (Exception / Rollback)
 
-![Xử lý lỗi](images/05_error_handling.png)
+![Xử lý lỗi](images05_error_handling.png)
